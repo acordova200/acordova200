@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Andres Cordova</h1>
-<h3 align="center">A passionate FullStack developer from El Salvador</h3>
+<h3 align="center">A passionate FullStack developer</h3>
 
 - 🔭 I’m currently working on [udemy](https://www.udemy.com/user/abcordova/)
 
