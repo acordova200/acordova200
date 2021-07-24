@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on [udemy](https://www.udemy.com/user/abcordova/)
 
-- 👨‍💻 All of my projects are available at [https://andres-cordova.com](https://andres-cordova.com)
+- 👨‍💻 All of my tutorials are available at [https://andres-cordova.com](https://andres-cordova.com)
 
-- 💬 Ask me about **frontend, backend, security, good practices!**
+- 💬 Ask me about **frontend, backend, security, software architect, good practices!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
