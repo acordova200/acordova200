@@ -3,7 +3,7 @@
 
 - 🔭 Currently I have created some courses in [udemy](https://www.udemy.com/user/abcordova/)
 
-- 👨‍💻 All of my tutorials are available at [https://andres-cordova.com](https://andres-cordova.com)
+- 👨‍💻 All of my tutorials are available at [https://udemy.com/user/abcordova](https://www.udemy.com/user/abcordova)
 
 - 💬 Ask me about **frontend, backend, security, software architect, good practices!**
 
@@ -43,5 +43,6 @@
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=acordova200&" alt="acordova200" /></p>
+
 
 
